@@ -1,6 +1,6 @@
-# 서울 교통맵 공개 데이터
+# 서울대중교통맵 공개 데이터
 
-"서울 교통맵" 앱이 받아 쓰는 정류소·노선·지하철역 데이터입니다. 앱 저장소의 GitHub Actions가 매일 새로 만들어, 바뀐 것이 있을 때만 올립니다. **이 저장소의 파일은 직접 고치지 마세요.** 다음 갱신 때 덮어씌워집니다.
+"서울대중교통맵" 앱이 받아 쓰는 정류소·노선·지하철역 데이터입니다. 앱 저장소의 GitHub Actions가 매일 새로 만들어, 바뀐 것이 있을 때만 올립니다. **이 저장소의 파일은 직접 고치지 마세요.** 다음 갱신 때 덮어씌워집니다.
 
 | 파일 | 내용 |
 |---|---|
@@ -17,4 +17,4 @@
 - 공공데이터포털(data.go.kr) 서울특별시 버스 정보 API
 - 서울교통공사 등 운영기관 역 정보 (서울열린데이터광장 제공)
 
-This repository holds public transit data (bus stops, routes, subway stations in Seoul) generated automatically from Seoul Metropolitan Government open data (KOGL Type 1) for the Seoul Transit Map app.
+This repository holds public transit data (bus stops, routes, subway stations in Seoul) generated automatically from Seoul Metropolitan Government open data (KOGL Type 1) for the Seoul Public Transit Map app.
