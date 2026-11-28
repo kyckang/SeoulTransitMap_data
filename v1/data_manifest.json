@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27 11:19 KST",
+  "generated_at": "2026-11-28 10:59 KST",
   "stops": 22845,
   "stops_in_seoul": 11223,
   "routes": 721,
   "route_stops_collected": true,
   "sha": {
     "seoul_bus_stops.csv": "31275ee5760e4f5e",
-    "seoul_bus_routes.csv": "420cac754229f958",
+    "seoul_bus_routes.csv": "17155ed2da47e361",
     "seoul_subway_stations.csv": "16481f5ae413ddef"
   },
   "subway_stations": 799,
